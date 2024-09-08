@@ -18,5 +18,10 @@ public static void main(String[] args) throws IOException {
 	System.out.println(b2);
 	System.out.println("done");
 
+	System.out.println(b1);
+	boolean b2 = f1.createNewFile();
+	System.out.println(b2);
+	System.out.println("done");
+
 	}
 }
